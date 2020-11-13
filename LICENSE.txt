@@ -1,0 +1,13 @@
+Copyright (c) 2020 National Engineering Lab for Next Generation Internet Interconnection Devices, BJTU
+
+For citation in your works and also understanding SAT20 and TER20 completely, you can find below published papers:
+
+Kun Li, Huachun Zhou, Zhe Tu, Weilin Wang and Honeke Zhang, "Distributed Network Intrusion Detection System in Satellite-Terrestrial Integrated Networks using Federated Learning".
+
+The paper is being resubmitted to IEEE access for review.
+
+Contributors: Kun Li: Researcher and Developer (Founder)
+
+Huachun Zhou: Researcher and Developer (Co-funder)
+
+Zhe Tu: Researcher and Developer (Co-funder)
